@@ -74,3 +74,10 @@ layout: default
 　　最后问一句：你有没有遇到过在国外手机没网，瞬间“失联”的恐慌时刻？欢迎分享你的故事。
 
 　　总之，在2025年的塞浦路斯保持联系并不难。花点时间做对选择，然后就可以放心地去享受地中海的阳光和热情了。
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Cyprus eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/cyprus-data-plans)
